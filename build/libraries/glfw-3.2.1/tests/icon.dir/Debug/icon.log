@@ -1,6 +1,0 @@
-﻿  Building Custom Rule D:/Users/papagian/Development/Opengl/libraries/glfw-3.2.1/tests/CMakeLists.txt
-  CMake does not need to re-run because D:/Users/papagian/Development/Opengl/build/libraries/glfw-3.2.1/tests/CMakeFiles/generate.stamp is up-to-date.
-  icon.c
-  glad.c
-  Generating Code...
-  icon.vcxproj -> D:\Users\papagian\Development\Opengl\build\libraries\glfw-3.2.1\tests\Debug\icon.exe
